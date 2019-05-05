@@ -20,7 +20,7 @@ by adding `fiql` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
 	[
-		{:fiql, "~> 0.1.0"},
+		{:fiql, "~> 0.1.1"},
 	]
 end
 ```
