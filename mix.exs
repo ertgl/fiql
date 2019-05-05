@@ -2,7 +2,7 @@ defmodule FiQL.MixProject do
 
   @github_url "https://github.com/ertgl/fiql"
 
-  @version "0.1.0"
+  @version "0.1.1"
 
   use Mix.Project
 
@@ -32,6 +32,7 @@ defmodule FiQL.MixProject do
 		[
 			name: :fiql,
 			files: [
+				"src",
 				"lib",
 				"mix.exs",
 				"README.md",
